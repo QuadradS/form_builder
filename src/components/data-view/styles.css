@@ -1,0 +1,19 @@
+.data_view {
+    background: #f2f2f2;
+    padding: 15px;
+}
+
+.data_view_cont {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.data_view_key, .data_view_value {
+    width: 50%;
+    overflow: hidden;
+}
+
+.data_view_value{
+    padding: 5px;
+}

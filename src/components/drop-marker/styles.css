@@ -1,0 +1,15 @@
+.drop_marker {
+    width: 100%;
+    padding: 7px 0;
+    margin-top: 15px;
+    border: 2px dashed #bababa;
+    border-radius: 3px;
+}
+
+.drop_marker p{
+    margin: 0;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    color: #616161;
+}

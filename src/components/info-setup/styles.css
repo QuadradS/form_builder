@@ -1,0 +1,25 @@
+.info_setup {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 10px;
+}
+
+.info_setup_title {
+    font-size: 13px;
+    margin: 0;
+    margin-right: auto;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.info_setup button {
+    font-size: 12px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.info_setup__settings_btn {
+    margin-left: auto;
+}

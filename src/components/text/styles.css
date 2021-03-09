@@ -1,0 +1,10 @@
+.text {
+    position: relative;
+    padding-top: 40px;
+}
+
+.text input {
+    font-size: 13px;
+    display: block;
+    width: 100%;
+}
